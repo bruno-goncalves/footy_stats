@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-require_relative "footy_stats/version"
+require_relative 'footy_stats/version'
 
 module FootyStats
   class Error < StandardError; end
